@@ -1,0 +1,15 @@
+{
+  "name": "redux-example",
+  "version": "0.1.0",
+  "description": "Tiny redux example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^3.6.0",
+    "redux-actions": "^2.0.2"
+  }
+}
